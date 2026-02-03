@@ -31,12 +31,12 @@ This project demonstrates proficiency in:
 
 ## How to Run the Project
 
-- 1.Create Database
-- 2.Import Dataset
-- 3.Clean and Standardize Data
-- 4.Add Constraints and Indexes
-- 5.Create Views
-- 6.Run Analysis Queries
+ 1.Create Database
+ 2.Import Dataset
+ 3.Clean and Standardize Data
+ 4.Add Constraints and Indexes
+ 5.Create Views
+ 6.Run Analysis Queries
 
 ## Skills and Tools Used
 
