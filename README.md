@@ -18,12 +18,12 @@ This project demonstrates proficiency in:
 | Column Name | Description |
 |--------------|-------------|
 | Model | Car model name (e.g., X5, 320d, i8) |
-| Year | Manufacturing year |
-| Region | Region where the car was sold |
-| Color | Car color |
-| Fuel_Type | Type of fuel (Petrol, Diesel, Hybrid, Electric) |
-| Transmission | Transmission type (Manual, Automatic) |
-| Engine_Size | Engine size in liters |
+| Year | Manufacturing year (e.g., 2016, 2013, 2022)|
+| Region | Region where the car was sold (e.g., Asia, North America, Middle East)|
+| Color | Car color (e.g., Red, Blue, Black)|
+| Fuel_Type | Type of fuel (e.g., Petrol, Diesel, Hybrid, Electric) |
+| Transmission | Transmission type (e.g., Manual, Automatic) |
+| Engine_Size | Engine size in liters (e.g., 3.5, 1.6, 4.5)|
 | Mileage_KM | Total distance driven (in km) |
 | Price_USD | Selling price in USD |
 | Sales_Volume | Units sold |
